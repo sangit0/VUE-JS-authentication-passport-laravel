@@ -1,6 +1,6 @@
 # vuejs and Laravel passport Auth
 
-> VueJS laravel Passport authticaiton and CRUD vue JS single page application showcase
+> VueJS laravel Passport authentication and CRUD vue JS single page application showcase
 
 #Front: VueJS<br>
 #Backend: Laravel<br>
