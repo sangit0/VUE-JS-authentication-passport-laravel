@@ -2,15 +2,15 @@
 
 > VueJS laravel Passport authticaiton and CRUD vue JS single page application showcase
 
-#Front: VueJS
-#Backend: Laravel
-#DB: Mysql
+#Front: VueJS<br>
+#Backend: Laravel<br>
+#DB: Mysql<br>
 
 #Command
     On Backend folder run
-        composer install
-        php artisan migrate:refresh --seeder
-        php artisan passport:install
+        1. composer install
+        2. php artisan migrate:refresh --seeder
+        3. php artisan passport:install
 
 ## Build Setup on Front
 
