@@ -7,10 +7,10 @@
 #DB: Mysql<br>
 
 #Command
-    On Backend folder run
-        1. composer install
-        2. php artisan migrate:refresh --seeder
-        3. php artisan passport:install
+    On Backend folder run<br>
+        1. composer install<br>
+        2. php artisan migrate:refresh --seed<br>
+        3. php artisan passport:install<br>
 
 ## Build Setup on Front
 
