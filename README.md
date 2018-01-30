@@ -5,9 +5,25 @@
 #Front: VueJS<br>
 #Backend: Laravel<br>
 #DB: Mysql<br>
+TechStack
 
-#Command
+TechStack
+  - VueJS v2
+  - vue-Router 
+  - vuex
+  - vue resource
+  - vue-strap
+  - Laravel 5.5 as backend
+  - Passport auth laravel
+  - Node.js
+  - Mysql
+  - Browserify
+  - webpack
+  
+
+## Command
     On Backend folder run<br>
+    ``` bash
         1. composer install<br>
         2. php artisan migrate:refresh --seed<br>
         3. php artisan passport:install<br>
