@@ -22,11 +22,10 @@ TechStack
   
 
 ## Command
-    On Backend folder run<br>
-    ``` bash
-        1. composer install<br>
-        2. php artisan migrate:refresh --seed<br>
-        3. php artisan passport:install<br>
+    On Backend folder run
+        - composer install
+        - php artisan migrate:refresh --seed
+        - php artisan passport:install
 
 ## Build Setup on Front
 
